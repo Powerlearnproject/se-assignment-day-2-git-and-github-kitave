@@ -1,7 +1,7 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Version control concepts include commits which are snapshots of changes,branches which are parallel versions,merge which is combining of branches,collaboration which is by handling conflicts,pulling and pushing of updates and maintaining a history of changes of the project.
-Github is a popular tool as it tracks changes made to a code and gives a history of all changes made and who made them to in the project .
+Github is a popular tool as it tracks changes made to a code and gives a history of all changes made and who made the changes in the project .
 Version control maintains project integrity by giving a history of all changes made and who made the changes and the time at which changes were made.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
@@ -39,7 +39,7 @@ Forking is useful in contributing to open source projects or in managing customi
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 Issues and project boards are essential tools for managing and organising work.
-Issues can be used by tracking bugs and tasks as project boards are used to visualise the workflow hence improve project organization by prioritising work and monitor project status.
+Issues are the tasks needed to be done and bugs that are being tracked while project boards are used to visualise the workflow in terms of column hence improve project organization by prioritising work and monitor project status.
 They can enhance collaborative efforts by enabling discussions,assign responsibilities and monitor progress.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
